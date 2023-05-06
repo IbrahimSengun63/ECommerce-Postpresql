@@ -1,6 +1,6 @@
 NodeJS-Postpresql
 
-DB Diagram
+**DB Diagram
 ![image](https://user-images.githubusercontent.com/67779798/236648355-3adecd10-27df-491d-846b-2b16cc768348.png)
 
 NodwJs Express Router
